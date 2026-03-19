@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated COMET manuscript."
+title: "COMET Model"
+type: software
+authors:
+  - family-names: "Ni"
+    given-names: "Linghao"
+repository-code: "https://github.com/little2b/COMET"
+abstract: "Training-ready PyTorch implementation of the COMET multimodal architecture."
+keywords:
+  - multimodal learning
+  - genomics
+  - clinical prediction
+  - non-small cell lung cancer
+  - PyTorch
