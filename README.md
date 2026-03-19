@@ -4,6 +4,14 @@ Training-ready PyTorch implementation of the COMET architecture for joint predic
 
 This repository is intended for researchers who want to train the architecture on their own data. It contains the model definition, configuration, input validation helpers, and runnable examples. It does not contain internal data, trained weights, deployment code, or project-specific pipelines.
 
+## Web inference demo
+
+A publicly accessible web deployment of COMET is available at:
+
+`https://comet.nlhcqmu.tech/`
+
+This online interface can be used for direct inference and demonstration purposes, whereas this GitHub repository is intended for researchers who want to train or adapt the model on their own datasets.
+
 ## Included modules
 
 - Variant-level projection encoder
