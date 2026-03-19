@@ -164,4 +164,8 @@ Examples:
 
 - `CITATION.cff` is included so GitHub can display citation metadata
 - A CI workflow is included to run a smoke test on every push
-- You should still add your preferred license before publishing the repository
+- The repository is released under the MIT License
+
+## Citation
+
+If you use this repository in academic work, please cite the associated COMET manuscript. GitHub will also expose the citation metadata from [`CITATION.cff`](CITATION.cff).
